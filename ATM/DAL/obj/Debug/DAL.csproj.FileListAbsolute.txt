@@ -1,0 +1,9 @@
+C:\Users\10676\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\10676\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\10676\source\repos\DAL\bin\Debug\Model.dll
+C:\Users\10676\source\repos\DAL\bin\Debug\Model.pdb
+C:\Users\10676\source\repos\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\10676\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\10676\source\repos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\10676\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\10676\source\repos\DAL\obj\Debug\DAL.pdb
